@@ -1,54 +1,91 @@
-<div align="center">
-  
-  ![GitHub repo size](https://img.shields.io/github/repo-size/codewithsadee/portfolio)
-  ![GitHub stars](https://img.shields.io/github/stars/codewithsadee/portfolio?style=social)
-  ![GitHub forks](https://img.shields.io/github/forks/codewithsadee/portfolio?style=social)
-[![Twitter Follow](https://img.shields.io/twitter/follow/codewithsadee_?style=social)](https://twitter.com/intent/follow?screen_name=codewithsadee_)
-  [![YouTube Video Views](https://img.shields.io/youtube/views/SAu7e09vXoQ?style=social)](https://youtu.be/SAu7e09vXoQ)
+# 🌐 Maharaja's Personal Portfolio
 
-  <br />
-  <br />
+![GitHub repo size](https://img.shields.io/github/repo-size/Maharaja-00/portfolio)
+![GitHub stars](https://img.shields.io/github/stars/Maharaja-00/portfolio?style=social)
+![GitHub forks](https://img.shields.io/github/forks/Maharaja-00/portfolio?style=social)
+[![LinkedIn](https://img.shields.io/badge/Connect-blue?logo=linkedin)](https://www.linkedin.com/in/maharaja-s-4a9003327/)
+[![GitHub](https://img.shields.io/github/followers/Maharaja-00?label=Follow&style=social)](https://github.com/Maharaja-00)
 
-  <h2 align="center">Personal Portfolio Website</h2>
-
-  Fully responsive personal portfolio website, <br />Responsive for all devices, built using HTML, CSS, and JavaScript.
-
-  <a href="https://codewithsadee.github.io/portfolio/"><strong>➥ Live Demo</strong></a>
+🔗 [Live Demo](https://maharaja-00.github.io/portfolio/) | 📄 [Download Resume](./assets/Resume/Maharaja_Java_Fullstack_Developer_B.com_(CGPA-7.4)_.pdf)
 
 </div>
 
-<br />
+---
 
-### Demo Screeshots
+## 📖 Description
 
-![Portfolio Desktop Demo](./readme-images/desktop.png "Desktop Demo")
+A fully responsive personal portfolio website built using **HTML**, **CSS**, **JavaScript**, and **Bootstrap**.  
+This project showcases my background, skills, and completed projects. Designed with simplicity, elegance, and user experience in mind.
 
-### Prerequisites
+---
 
-Before you begin, ensure you have met the following requirements:
+## 📸 Demo Screenshots
 
-* [Git](https://git-scm.com/downloads "Download Git") must be installed on your operating system.
+> 💻 Desktop View
 
-### Run Locally
+![Portfolio Desktop](./readme-images/desktop.png)
 
-To run **Portfolio** locally, run this command on your git bash:
+---
 
-Linux and macOS:
+## 🚀 Features
+
+- Smooth scrolling and responsive design
+- Project carousel using JavaScript
+- Toggleable skills accordion
+- Back-to-top button
+- Downloadable resume
+- Live project demos and GitHub links
+
+---
+
+## 📁 Folder Structure
+
+├── index.html ├── style.css ├── script.js ├── assets/ │ ├── css/ │ ├── js/ │ ├── images/ │ └── Resume/ └── favicon.svg
+
+yaml
+Copy
+Edit
+
+---
+
+## 🛠️ Tech Stack
+
+- HTML5
+- CSS3 (custom & Bootstrap)
+- JavaScript (vanilla)
+- Font Awesome & Ionicons
+- Google Fonts
+
+---
+
+## 🧠 Skills Highlighted
+
+- Java, MySQL
+- HTML, CSS, JavaScript
+- Git & GitHub
+- ReactJS, Bootstrap, AOS
+- Project structuring and responsive design
+
+---
+
+## 📦 Run Locally
+
+To clone and run this project locally:
 
 ```bash
-sudo git clone https://github.com/codewithsadee/portfolio.git
-```
+git clone https://github.com/Maharaja-00/portfolio.git
+cd portfolio
+open index.html
+📬 Contact
+If you want to connect or hire me:
 
-Windows:
+📧 Email: maharajamanoj15@gmail.com
 
-```bash
-git clone https://github.com/codewithsadee/portfolio.git
-```
+📱 Phone: +91-883-847-1635
 
-### Contact
+🔗 LinkedIn
 
-If you want to contact with me you can reach me at [Twitter](https://www.twitter.com/codewithsadee).
+🐙 GitHub
 
-### License
-
-This project is **free to use** and does not contains any license.
+📄 License
+This project is free to use and currently has no license.
